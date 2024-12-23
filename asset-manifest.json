@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Archangel/static/css/main.ce8c0471.css",
+    "main.js": "/Archangel/static/js/main.0dfd9a8c.js",
+    "static/media/archangel.webp": "/Archangel/static/media/archangel.48c1c68279ab2eea8f27.webp",
+    "static/media/laptop.jpg": "/Archangel/static/media/laptop.b5670a467094ca8010ce.jpg",
+    "index.html": "/Archangel/index.html",
+    "main.ce8c0471.css.map": "/Archangel/static/css/main.ce8c0471.css.map",
+    "main.0dfd9a8c.js.map": "/Archangel/static/js/main.0dfd9a8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce8c0471.css",
+    "static/js/main.0dfd9a8c.js"
+  ]
+}
